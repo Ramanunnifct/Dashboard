@@ -1,0 +1,26 @@
+.footer{
+height: auto;
+background-color: black;
+position: absolute;
+left: 160px;
+width: 88%;
+top: 668px;
+color: white;
+}
+.container{
+  
+  height: 70%;
+  display: flex;
+  padding: 10px 0px;
+}
+
+.container-1{
+  width: 50%;
+  margin-left: 300px;
+  
+  
+}
+.container-2{
+  width: 50%;
+  
+}
